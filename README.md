@@ -6,7 +6,7 @@ Jupyter project with automated KaggleHub download for Singapore HDB resale trend
 
 ## Live Notebook
 [View on GitHub](your-ipynb-link) | [nbviewer](https://nbviewer.jupyter.org/github/yourusername/hdb-affordability-notebook/blob/main/HDB-Affordability-Analysis.ipynb)
-
+// TO FIX, Broken link will do later
 ## Setup
 1. pip install kagglehub
 2. Set Kaggle API key (see notebook).
